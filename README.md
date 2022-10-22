@@ -1,1 +1,1 @@
-# Vanilla Calendar Website
+# Astro + React startup website
